@@ -1,0 +1,7 @@
+user_input_1 = int(input("Give me a whole number:"))
+user_input_2 = int(input("Give me another whole number:"))
+user_input_3 = int(input("Give me a third whole number:"))
+user_input_4 = int(input("Give me a fourth whole number:"))
+user_input_5 = int(input("Give me a fifth whole number:"))
+print("Sum: ", user_input_1 + user_input_2 + user_input_3 + user_input_4 + user_input_5)
+print("Average: ", (user_input_1 + user_input_2 + user_input_3 + user_input_4 + user_input_5) / 5)
